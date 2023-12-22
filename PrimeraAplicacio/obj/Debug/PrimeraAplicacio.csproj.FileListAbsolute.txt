@@ -1,0 +1,13 @@
+C:\Users\arnau.mora_modelical\Desktop\MisComandos\PrimeraAplicacio\PrimeraAplicacio\bin\Debug\PrimeraAplicacio.dll
+C:\Users\arnau.mora_modelical\Desktop\MisComandos\PrimeraAplicacio\PrimeraAplicacio\bin\Debug\PrimeraAplicacio.pdb
+C:\Users\arnau.mora_modelical\Desktop\MisComandos\PrimeraAplicacio\PrimeraAplicacio\obj\Debug\PrimeraAplicacio.csproj.AssemblyReference.cache
+C:\Users\arnau.mora_modelical\Desktop\MisComandos\PrimeraAplicacio\PrimeraAplicacio\obj\Debug\PrimeraAplicacio.csproj.CoreCompileInputs.cache
+C:\Users\arnau.mora_modelical\Desktop\MisComandos\PrimeraAplicacio\PrimeraAplicacio\obj\Debug\PrimeraAplicacio.dll
+C:\Users\arnau.mora_modelical\Desktop\MisComandos\PrimeraAplicacio\PrimeraAplicacio\obj\Debug\PrimeraAplicacio.pdb
+C:\Users\arnau.mora_modelical\Desktop\MisComandos\PrimeraAplicacio\PrimeraAplicacio\bin\Debug\EPPlus.dll
+C:\Users\arnau.mora_modelical\Desktop\MisComandos\PrimeraAplicacio\PrimeraAplicacio\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\arnau.mora_modelical\Desktop\MisComandos\PrimeraAplicacio\PrimeraAplicacio\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\arnau.mora_modelical\Desktop\MisComandos\PrimeraAplicacio\PrimeraAplicacio\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\arnau.mora_modelical\Desktop\MisComandos\PrimeraAplicacio\PrimeraAplicacio\bin\Debug\EPPlus.xml
+C:\Users\arnau.mora_modelical\Desktop\MisComandos\PrimeraAplicacio\PrimeraAplicacio\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\arnau.mora_modelical\Desktop\MisComandos\PrimeraAplicacio\PrimeraAplicacio\obj\Debug\PrimeraAplicacio.csproj.CopyComplete

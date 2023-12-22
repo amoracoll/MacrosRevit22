@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command PrimeraAplicacio</Text>
+    <Description>Some description for PrimeraAplicacio</Description>
+    <Assembly>PrimeraAplicacio.dll</Assembly>
+    <FullClassName>PrimeraAplicacio.Command</FullClassName>
+    <ClientId>996c9bb2-958f-40c4-8bca-8bdc612e6c24</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Application PrimeraAplicacio</Name>
+    <Assembly>PrimeraAplicacio.dll</Assembly>
+    <FullClassName>PrimeraAplicacio.App</FullClassName>
+    <ClientId>edf9cd89-aeb6-4851-b8d3-4c36c82ee436</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
